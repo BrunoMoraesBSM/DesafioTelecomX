@@ -21,6 +21,7 @@ No entanto, notou-se uma grande quantidade de evasão dos clientes senior, onde 
 ![output](https://github.com/user-attachments/assets/65ae3b5b-2137-4187-b66b-1b8c3021101a)
 
 Notou-se também que quanto maior o gasto mensal, maior é a porcentagem de evasão, sendo que a menor porcentagem é de 20% onde o gasto máximo é de R$ 45,00.
+
 ![output](https://github.com/user-attachments/assets/f2b07aef-e0e0-43d1-b252-0202ad5705b7)
 ![output](https://github.com/user-attachments/assets/c903960c-cbae-4d91-9e53-5f2caea82b0f)
 
